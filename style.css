@@ -1,0 +1,16 @@
+/* basic styles for now, will clean up later */
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+button {
+  padding: 8px 14px;
+  margin-right: 6px;
+  cursor: pointer;
+}
+
+#message {
+  margin-top: 20px;
+  font-weight: bold;
+}
