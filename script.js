@@ -11,12 +11,12 @@ function pickOpinion(text, color){
 
 document.getElementById("option1").addEventListener("click", function(){
   pickOpinion("You think durian is nasty.", "#f8d7da");
-}
+});
 
 document.getElementById("option2").addEventListener("click", function(){
   pickOpinion("You think durian is ok.", "#fff3cd");
-}
+});
 
 document.getElementById("option3").addEventListener("click", function(){
   pickOpinion("You think durian is great.", "#d4edda");
-}
+});
