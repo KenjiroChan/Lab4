@@ -1,6 +1,6 @@
 const message = document.getElementById("message");
-const clickCount = document.getElementByID("clickCount);
-let count = 0
+const clickCount = document.getElementById("clickCount);
+let count = 0;
 
 function pickOpinion(text, color){
   count++;
